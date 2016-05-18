@@ -1,0 +1,15 @@
+{
+  "name": "mysqlnodejson",
+  "version": "1.0.0",
+  "description": "Mississauga Coding NOde Js mysql connection",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sekhar kolli",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
